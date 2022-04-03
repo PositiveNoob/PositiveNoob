@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @PositiveNoob
-- 👀 I’m interested in python and quantum physics!
-- 🌱 I’m currently learning create in python.
+- 😈 Hi, I’m @PositiveNoob
+- 😈 I’m interested in python and quantum physics!
+- 😈 I’m currently learning python.
 
 <!---
 PositiveNoob/PositiveNoob is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
